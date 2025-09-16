@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Database**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-rho-one-82.vercel.app/](https://react-portfolio-rho-one-82.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://joshua-formento.vercel.app/](https://joshua-formento.vercel.app/)
 
-- 📫 How to reach me **jformento108@gmail.com**
+- 📫 How to reach me **joshuaformento.work@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/joshua-formento/](https://www.linkedin.com/in/joshua-formento/)
 
